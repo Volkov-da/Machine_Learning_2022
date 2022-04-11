@@ -1,0 +1,3 @@
+[submodule "proj18"]
+	path = proj18
+	url = https://github.com/melhaud/proj18.git
