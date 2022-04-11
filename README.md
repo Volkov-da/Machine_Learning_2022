@@ -11,4 +11,4 @@ Homeworks and Final project on a Skoltech course Machine Learning
 
 [HW3](hw3.ipynb) Gaussian Process, Dimensionality reduction and Anomaly detection. 
 
-[FinalProject](FinalProject) Anomaly detection using self-supervised point clouds.
+[FinalProject](proj18) Anomaly detection using self-supervised point clouds.
